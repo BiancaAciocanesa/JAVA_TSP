@@ -24,11 +24,6 @@ This project demonstrates the strengths and trade-offs of different TSP-solving 
 
 ## Screenshots
 
-### 1. Graphical User Interface (GUI)
-![](images/tsp.png)
-
-### 2. TSP Solution Visualization
-![](images/tsp2.png)
-
-### 3. Performance Statistics
-![](images/tsp3s.png)
+![](https://github.com/BiancaAciocanesa/JAVA_TSP/blob/main/images/tsp.PNG)
+![](https://github.com/BiancaAciocanesa/JAVA_TSP/blob/main/images/tsp2.PNG)
+![](https://github.com/BiancaAciocanesa/JAVA_TSP/blob/main/images/tsp3.PNG)
